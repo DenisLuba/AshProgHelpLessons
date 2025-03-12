@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\MenuBar_MAUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CF7CA3-D8EF-40B5-A564-3C3AE3753B38}|MenuBar_MAUI\\MenuBar_MAUI.csproj|c:\\users\\support.krasnodar-1120\\desktop\\repos\\menubar_maui\\menubar_maui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F0CF7CA3-D8EF-40B5-A564-3C3AE3753B38}|MenuBar_MAUI\\MenuBar_MAUI.csproj|solutionrelative:menubar_maui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CF7CA3-D8EF-40B5-A564-3C3AE3753B38}|MenuBar_MAUI\\MenuBar_MAUI.csproj|c:\\users\\support.krasnodar-1120\\desktop\\repos\\menubar_maui\\menubar_maui\\mainpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{F0CF7CA3-D8EF-40B5-A564-3C3AE3753B38}|MenuBar_MAUI\\MenuBar_MAUI.csproj|solutionrelative:menubar_maui\\mainpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\MenuBar_MAUI\\MenuBar_MAUI\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MenuBar_MAUI\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\MenuBar_MAUI\\MenuBar_MAUI\\MainPage.xaml.cs",
+              "RelativeToolTip": "MenuBar_MAUI\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:03:24.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\MenuBar_MAUI\\MenuBar_MAUI\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MenuBar_MAUI\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\MenuBar_MAUI\\MenuBar_MAUI\\MainPage.xaml",
+              "RelativeToolTip": "MenuBar_MAUI\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T06:56:30.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

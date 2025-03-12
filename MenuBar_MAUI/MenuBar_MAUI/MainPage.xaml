@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MenuBar_MAUI.MainPage">
+
+    <ContentPage.MenuBarItems>
+        <MenuBarItem  Text="File">
+            <MenuFlyoutItem Text="Save" Clicked="SaveMenuItem_Clicked"/>
+            <MenuFlyoutItem Text="Exit" />
+        </MenuBarItem>
+
+        <MenuBarItem Text="Edit">
+            <MenuFlyoutSubItem Text="Rotate">
+                <MenuFlyoutItem Text="Rotate 90" />
+                <MenuFlyoutItem Text="Rotate 180" />
+                <MenuFlyoutItem Text="Rotate 270" />
+                <MenuFlyoutItem Text="Rotate 360" />
+            </MenuFlyoutSubItem>
+            <MenuFlyoutSubItem Text="Zoom">
+                <MenuFlyoutItem Text="Zoom in" />
+                <MenuFlyoutItem Text="Zoom out" />
+                <MenuFlyoutItem Text="Restored Default Zoom" />
+            </MenuFlyoutSubItem>
+        </MenuBarItem>
+        
+        <MenuBarItem Text="Help">
+            <MenuFlyoutItem Text="View Help" />
+            <MenuFlyoutItem Text="Send Feedback" />
+        </MenuBarItem>
+    </ContentPage.MenuBarItems>
+
+    <Label 
+        Text="Hello World" 
+        TextColor="{StaticResource Primary}"
+        BackgroundColor="{StaticResource PrimaryDarkText}"
+        FontSize="Large" 
+        HorizontalOptions="Center" 
+        VerticalOptions="Center" />
+</ContentPage>
