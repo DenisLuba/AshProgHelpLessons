@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\UsersFromWeb_LoginPage_MAUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1907536-9741-4F7C-95F0-06538101AC35}|UsersFromWeb_LoginPage_MAUI\\UsersFromWeb_LoginPage_MAUI.csproj|c:\\users\\support.krasnodar-1120\\desktop\\repos\\usersfromweb_loginpage_maui\\usersfromweb_loginpage_maui\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C1907536-9741-4F7C-95F0-06538101AC35}|UsersFromWeb_LoginPage_MAUI\\UsersFromWeb_LoginPage_MAUI.csproj|solutionrelative:usersfromweb_loginpage_maui\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C1907536-9741-4F7C-95F0-06538101AC35}|UsersFromWeb_LoginPage_MAUI\\UsersFromWeb_LoginPage_MAUI.csproj|c:\\users\\support.krasnodar-1120\\desktop\\repos\\usersfromweb_loginpage_maui\\usersfromweb_loginpage_maui\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1907536-9741-4F7C-95F0-06538101AC35}|UsersFromWeb_LoginPage_MAUI\\UsersFromWeb_LoginPage_MAUI.csproj|solutionrelative:usersfromweb_loginpage_maui\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1907536-9741-4F7C-95F0-06538101AC35}|UsersFromWeb_LoginPage_MAUI\\UsersFromWeb_LoginPage_MAUI.csproj|c:\\users\\support.krasnodar-1120\\desktop\\repos\\usersfromweb_loginpage_maui\\usersfromweb_loginpage_maui\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1907536-9741-4F7C-95F0-06538101AC35}|UsersFromWeb_LoginPage_MAUI\\UsersFromWeb_LoginPage_MAUI.csproj|solutionrelative:usersfromweb_loginpage_maui\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +26,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LoginPage.xaml",
               "DocumentMoniker": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\UsersFromWeb_LoginPage_MAUI\\UsersFromWeb_LoginPage_MAUI\\Pages\\LoginPage.xaml",
               "RelativeDocumentMoniker": "UsersFromWeb_LoginPage_MAUI\\Pages\\LoginPage.xaml",
               "ToolTip": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\UsersFromWeb_LoginPage_MAUI\\UsersFromWeb_LoginPage_MAUI\\Pages\\LoginPage.xaml",
               "RelativeToolTip": "UsersFromWeb_LoginPage_MAUI\\Pages\\LoginPage.xaml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAIwCUAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-17T10:22:26.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "LoginService.cs",
               "DocumentMoniker": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\UsersFromWeb_LoginPage_MAUI\\UsersFromWeb_LoginPage_MAUI\\Services\\LoginService.cs",
               "RelativeDocumentMoniker": "UsersFromWeb_LoginPage_MAUI\\Services\\LoginService.cs",
-              "ToolTip": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\UsersFromWeb_LoginPage_MAUI\\UsersFromWeb_LoginPage_MAUI\\Services\\LoginService.cs",
-              "RelativeToolTip": "UsersFromWeb_LoginPage_MAUI\\Services\\LoginService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvwgAAAAiAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\UsersFromWeb_LoginPage_MAUI\\UsersFromWeb_LoginPage_MAUI\\Services\\LoginService.cs*",
+              "RelativeToolTip": "UsersFromWeb_LoginPage_MAUI\\Services\\LoginService.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA7wA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T10:14:38.804Z",
               "EditorCaption": ""

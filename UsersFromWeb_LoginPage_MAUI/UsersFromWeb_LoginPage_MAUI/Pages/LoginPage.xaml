@@ -27,6 +27,7 @@
             <Button 
                 x:Name="btnLogin" 
                 Text="Login" 
+                Margin="15"
                 BackgroundColor="Transparent"
                 TextColor="#154360"
                 BorderColor="#154360"

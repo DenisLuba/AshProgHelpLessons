@@ -11,7 +11,7 @@ public class LoginService : ILoginRepository
     public async Task<UserInfo?> Login(string userName, string password)
     {
         if (httpClient is null) httpClient = new HttpClient();
-        httpClient.DefaultRequestHeaders.Add("Content-Type", "application/json");
+        
         UserInfo user = new() { username = "", password = "" };
         JsonContent json = JsonContent.Create(user);
         using HttpResponseMessage response = await httpClient.PostAsync(URL, json);
