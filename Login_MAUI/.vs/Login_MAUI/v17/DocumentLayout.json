@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\Login_MAUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E863C254-F7D6-4A43-B75C-F70EB5C04C92}|Login_MAUI\\Login_MAUI.csproj|c:\\users\\support.krasnodar-1120\\desktop\\repos\\login_maui\\login_maui\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E863C254-F7D6-4A43-B75C-F70EB5C04C92}|Login_MAUI\\Login_MAUI.csproj|solutionrelative:login_maui\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\Login_MAUI\\Login_MAUI\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "Login_MAUI\\Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\Login_MAUI\\Login_MAUI\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "Login_MAUI\\Pages\\LoginPage.xaml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T09:21:19.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
