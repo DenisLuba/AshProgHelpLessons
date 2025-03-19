@@ -15,9 +15,13 @@
                     <Image Source="https://www.findool.com/images/avatars/avatar.png" />
                 </Border>
             </VerticalStackLayout>
+            
             <Grid  Grid.Row="1" Margin="20,20,20,0" RowDefinitions="*, 50, 50, Auto, 40, 40, *">
+                
                 <Label Grid.Row="1" Text="{StaticResource welcome}" HorizontalOptions="Center"  FontSize="Title" FontAttributes="Bold" Padding="0" Margin="0" />
+                
                 <Label Grid.Row="2" Text="{StaticResource sign_in}" HorizontalOptions="Center" FontSize="Subtitle" />
+                
                 <VerticalStackLayout Grid.Row="3">
                     <Border Background="Transparent" Stroke="LightGreen" StrokeThickness="1" StrokeShape="RoundRectangle 30" HorizontalOptions="Fill" Padding="0">
                         <HorizontalStackLayout>

@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\Login_MAUI\\Login_MAUI\\Login_MAUI.csproj": {}
+    "V:\\source\\ProgrammingProjects\\MAUI\\AshProgHelpLessons\\Login_MAUI\\Login_MAUI\\Login_MAUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\Login_MAUI\\Login_MAUI\\Login_MAUI.csproj": {
+    "V:\\source\\ProgrammingProjects\\MAUI\\AshProgHelpLessons\\Login_MAUI\\Login_MAUI\\Login_MAUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\Login_MAUI\\Login_MAUI\\Login_MAUI.csproj",
+        "projectUniqueName": "V:\\source\\ProgrammingProjects\\MAUI\\AshProgHelpLessons\\Login_MAUI\\Login_MAUI\\Login_MAUI.csproj",
         "projectName": "Login_MAUI",
-        "projectPath": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\Login_MAUI\\Login_MAUI\\Login_MAUI.csproj",
-        "packagesPath": "C:\\Users\\support.KRASNODAR-1120\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\Login_MAUI\\Login_MAUI\\obj\\",
+        "projectPath": "V:\\source\\ProgrammingProjects\\MAUI\\AshProgHelpLessons\\Login_MAUI\\Login_MAUI\\Login_MAUI.csproj",
+        "packagesPath": "V:\\user\\.nuget\\packages",
+        "outputPath": "V:\\source\\ProgrammingProjects\\MAUI\\AshProgHelpLessons\\Login_MAUI\\Login_MAUI\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\support.KRASNODAR-1120\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -38,11 +38,11 @@
             "targetAlias": "net9.0-android",
             "projectReferences": {}
           },
-          "net9.0-ios18.1": {
+          "net9.0-ios18.2": {
             "targetAlias": "net9.0-ios",
             "projectReferences": {}
           },
-          "net9.0-maccatalyst18.1": {
+          "net9.0-maccatalyst18.2": {
             "targetAlias": "net9.0-maccatalyst",
             "projectReferences": {}
           },
@@ -59,9 +59,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0-android35.0": {
@@ -77,13 +77,17 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.14, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.0, )",
+              "version": "[9.0.3, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
@@ -105,9 +109,9 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         },
-        "net9.0-ios18.1": {
+        "net9.0-ios18.2": {
           "targetAlias": "net9.0-ios",
           "dependencies": {
             "CommunityToolkit.Mvvm": {
@@ -120,13 +124,17 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.14, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.0, )",
+              "version": "[9.0.3, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
@@ -148,9 +156,9 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         },
-        "net9.0-maccatalyst18.1": {
+        "net9.0-maccatalyst18.2": {
           "targetAlias": "net9.0-maccatalyst",
           "dependencies": {
             "CommunityToolkit.Mvvm": {
@@ -163,13 +171,17 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.14, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.0, )",
+              "version": "[9.0.3, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
@@ -192,7 +204,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         },
         "net9.0-windows10.0.19041": {
           "targetAlias": "net9.0-windows10.0.19041.0",
@@ -207,7 +219,11 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.14, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
@@ -224,7 +240,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.19041.54, 10.0.19041.54]"
+              "version": "[10.0.19041.57, 10.0.19041.57]"
             }
           ],
           "frameworkReferences": {
@@ -235,7 +251,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

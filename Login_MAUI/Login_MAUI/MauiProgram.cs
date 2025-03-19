@@ -1,4 +1,6 @@
-﻿using Login_MAUI.ViewModels;
+﻿using Login_MAUI.Pages;
+using Login_MAUI.Services;
+using Login_MAUI.ViewModels;
 using Microsoft.Extensions.Logging;
 
 namespace Login_MAUI
@@ -16,7 +18,14 @@ namespace Login_MAUI
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
                 });
 
+            builder.Services.AddSingleton<ILoginRepository, LoginService>();
             builder.Services.AddSingleton<LoginPageViewModel>();
+            builder.Services.AddSingleton<HttpClient>();
+
+            builder.Services.AddSingleton<HomePage>();
+            builder.Services.AddSingleton<LoginPage>();
+            builder.Services.AddSingleton<ContactPage>();
+            builder.Services.AddSingleton<AboutPage>();
 
 #if DEBUG
     		builder.Logging.AddDebug();

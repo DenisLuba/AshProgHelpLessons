@@ -1,42 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\Login_MAUI\\",
+  "WorkspaceRootPath": "V:\\source\\ProgrammingProjects\\MAUI\\AshProgHelpLessons\\Login_MAUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E863C254-F7D6-4A43-B75C-F70EB5C04C92}|Login_MAUI\\Login_MAUI.csproj|c:\\users\\support.krasnodar-1120\\desktop\\repos\\login_maui\\login_maui\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E863C254-F7D6-4A43-B75C-F70EB5C04C92}|Login_MAUI\\Login_MAUI.csproj|solutionrelative:login_maui\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E863C254-F7D6-4A43-B75C-F70EB5C04C92}|Login_MAUI\\Login_MAUI.csproj|c:\\users\\support.krasnodar-1120\\desktop\\repos\\login_maui\\login_maui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E863C254-F7D6-4A43-B75C-F70EB5C04C92}|Login_MAUI\\Login_MAUI.csproj|solutionrelative:login_maui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E863C254-F7D6-4A43-B75C-F70EB5C04C92}|Login_MAUI\\Login_MAUI.csproj|c:\\users\\support.krasnodar-1120\\desktop\\repos\\login_maui\\login_maui\\resources\\values\\strings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E863C254-F7D6-4A43-B75C-F70EB5C04C92}|Login_MAUI\\Login_MAUI.csproj|solutionrelative:login_maui\\resources\\values\\strings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E863C254-F7D6-4A43-B75C-F70EB5C04C92}|Login_MAUI\\Login_MAUI.csproj|c:\\users\\support.krasnodar-1120\\desktop\\repos\\login_maui\\login_maui\\viewmodels\\loginpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E863C254-F7D6-4A43-B75C-F70EB5C04C92}|Login_MAUI\\Login_MAUI.csproj|v:\\source\\programmingprojects\\maui\\ashproghelplessons\\login_maui\\login_maui\\viewmodels\\loginpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E863C254-F7D6-4A43-B75C-F70EB5C04C92}|Login_MAUI\\Login_MAUI.csproj|solutionrelative:login_maui\\viewmodels\\loginpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E863C254-F7D6-4A43-B75C-F70EB5C04C92}|Login_MAUI\\Login_MAUI.csproj|c:\\users\\support.krasnodar-1120\\desktop\\repos\\login_maui\\login_maui\\pages\\loginpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{E863C254-F7D6-4A43-B75C-F70EB5C04C92}|Login_MAUI\\Login_MAUI.csproj|solutionrelative:login_maui\\pages\\loginpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E863C254-F7D6-4A43-B75C-F70EB5C04C92}|Login_MAUI\\Login_MAUI.csproj|c:\\users\\support.krasnodar-1120\\desktop\\repos\\login_maui\\login_maui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E863C254-F7D6-4A43-B75C-F70EB5C04C92}|Login_MAUI\\Login_MAUI.csproj|solutionrelative:login_maui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E863C254-F7D6-4A43-B75C-F70EB5C04C92}|Login_MAUI\\Login_MAUI.csproj|c:\\users\\support.krasnodar-1120\\desktop\\repos\\login_maui\\login_maui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E863C254-F7D6-4A43-B75C-F70EB5C04C92}|Login_MAUI\\Login_MAUI.csproj|solutionrelative:login_maui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E863C254-F7D6-4A43-B75C-F70EB5C04C92}|Login_MAUI\\Login_MAUI.csproj|c:\\users\\support.krasnodar-1120\\desktop\\repos\\login_maui\\login_maui\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E863C254-F7D6-4A43-B75C-F70EB5C04C92}|Login_MAUI\\Login_MAUI.csproj|solutionrelative:login_maui\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E863C254-F7D6-4A43-B75C-F70EB5C04C92}|Login_MAUI\\Login_MAUI.csproj|c:\\users\\support.krasnodar-1120\\desktop\\repos\\login_maui\\login_maui\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E863C254-F7D6-4A43-B75C-F70EB5C04C92}|Login_MAUI\\Login_MAUI.csproj|solutionrelative:login_maui\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,127 +14,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\Login_MAUI\\Login_MAUI\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "Login_MAUI\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\Login_MAUI\\Login_MAUI\\MauiProgram.cs",
-              "RelativeToolTip": "Login_MAUI\\MauiProgram.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAA3wBIAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T12:23:03.612Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\Login_MAUI\\Login_MAUI\\Pages\\LoginPage.xaml.cs",
-              "RelativeDocumentMoniker": "Login_MAUI\\Pages\\LoginPage.xaml.cs",
-              "ToolTip": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\Login_MAUI\\Login_MAUI\\Pages\\LoginPage.xaml.cs",
-              "RelativeToolTip": "Login_MAUI\\Pages\\LoginPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T12:22:16.796Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\Login_MAUI\\Login_MAUI\\App.xaml",
-              "RelativeDocumentMoniker": "Login_MAUI\\App.xaml",
-              "ToolTip": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\Login_MAUI\\Login_MAUI\\App.xaml",
-              "RelativeToolTip": "Login_MAUI\\App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-19T10:35:18.711Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Strings.xaml",
-              "DocumentMoniker": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\Login_MAUI\\Login_MAUI\\Resources\\Values\\Strings.xaml",
-              "RelativeDocumentMoniker": "Login_MAUI\\Resources\\Values\\Strings.xaml",
-              "ToolTip": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\Login_MAUI\\Login_MAUI\\Resources\\Values\\Strings.xaml",
-              "RelativeToolTip": "Login_MAUI\\Resources\\Values\\Strings.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-19T10:30:58.155Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomePage.xaml",
-              "DocumentMoniker": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\Login_MAUI\\Login_MAUI\\Pages\\HomePage.xaml",
-              "RelativeDocumentMoniker": "Login_MAUI\\Pages\\HomePage.xaml",
-              "ToolTip": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\Login_MAUI\\Login_MAUI\\Pages\\HomePage.xaml",
-              "RelativeToolTip": "Login_MAUI\\Pages\\HomePage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-19T09:37:15.211Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\Login_MAUI\\Login_MAUI\\AppShell.xaml",
-              "RelativeDocumentMoniker": "Login_MAUI\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\Login_MAUI\\Login_MAUI\\AppShell.xaml",
-              "RelativeToolTip": "Login_MAUI\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-19T09:35:19.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BaseViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\Login_MAUI\\Login_MAUI\\ViewModels\\BaseViewModel.cs",
-              "RelativeDocumentMoniker": "Login_MAUI\\ViewModels\\BaseViewModel.cs",
-              "ToolTip": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\Login_MAUI\\Login_MAUI\\ViewModels\\BaseViewModel.cs",
-              "RelativeToolTip": "Login_MAUI\\ViewModels\\BaseViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T09:26:35.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginPageViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\Login_MAUI\\Login_MAUI\\ViewModels\\LoginPageViewModel.cs",
-              "RelativeDocumentMoniker": "Login_MAUI\\ViewModels\\LoginPageViewModel.cs",
-              "ToolTip": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\Login_MAUI\\Login_MAUI\\ViewModels\\LoginPageViewModel.cs",
-              "RelativeToolTip": "Login_MAUI\\ViewModels\\LoginPageViewModel.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T09:22:46.891Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LoginPage.xaml",
-              "DocumentMoniker": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\Login_MAUI\\Login_MAUI\\Pages\\LoginPage.xaml",
-              "RelativeDocumentMoniker": "Login_MAUI\\Pages\\LoginPage.xaml",
-              "ToolTip": "C:\\Users\\support.KRASNODAR-1120\\Desktop\\repos\\Login_MAUI\\Login_MAUI\\Pages\\LoginPage.xaml",
-              "RelativeToolTip": "Login_MAUI\\Pages\\LoginPage.xaml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-19T09:21:19.929Z",
+              "Title": "LoginPageViewModel.cs",
+              "DocumentMoniker": "V:\\source\\ProgrammingProjects\\MAUI\\AshProgHelpLessons\\Login_MAUI\\Login_MAUI\\ViewModels\\LoginPageViewModel.cs",
+              "RelativeDocumentMoniker": "Login_MAUI\\ViewModels\\LoginPageViewModel.cs",
+              "ToolTip": "V:\\source\\ProgrammingProjects\\MAUI\\AshProgHelpLessons\\Login_MAUI\\Login_MAUI\\ViewModels\\LoginPageViewModel.cs",
+              "RelativeToolTip": "Login_MAUI\\ViewModels\\LoginPageViewModel.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T19:12:52.479Z",
               "EditorCaption": ""
             }
           ]
