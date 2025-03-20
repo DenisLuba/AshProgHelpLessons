@@ -10,4 +10,12 @@ public partial class LoginPage : ContentPage
 
 		BindingContext = viewModel;
 	}
+
+    protected override void OnAppearing()
+    {
+        base.OnAppearing();
+
+		entryUserName.Text = string.Empty;
+		entryPassword.Text = string.Empty;
+    }
 }

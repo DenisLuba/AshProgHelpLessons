@@ -1,4 +1,5 @@
-﻿using Login_MAUI.Pages;
+﻿using CommunityToolkit.Maui;
+using Login_MAUI.Pages;
 using Login_MAUI.Services;
 using Login_MAUI.ViewModels;
 using Microsoft.Extensions.Logging;
@@ -17,6 +18,8 @@ namespace Login_MAUI
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
                 });
+
+            builder.UseMauiCommunityToolkit();
 
             builder.Services.AddSingleton<AppShellViewModel>();
             builder.Services.AddSingleton<ILoginRepository, LoginService>();

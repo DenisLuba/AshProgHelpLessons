@@ -12,5 +12,6 @@ public partial class AppShellViewModel : BaseViewModel
             Preferences.Remove(nameof(App.UserInfo));
 
         await Shell.Current.GoToAsync($"//{nameof(LoginPage)}");
+        Shell.Current.FlyoutIsPresented = false;
     }
 }

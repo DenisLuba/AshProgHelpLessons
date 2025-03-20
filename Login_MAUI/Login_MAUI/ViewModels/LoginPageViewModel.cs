@@ -32,7 +32,7 @@ public partial class LoginPageViewModel(ILoginRepository loginRepository) : Base
         {
             UserInfo? userInfo = await _loginRepository.Login(UserName, Password);
 
-            if (userInfo is not null)
+            if (userInfo is not null && userInfo.username is not null && !string.IsNullOrEmpty(userInfo.username))
             {
                 if (Preferences.ContainsKey(nameof(App.UserInfo))) Preferences.Remove(nameof(App.UserInfo));
 
