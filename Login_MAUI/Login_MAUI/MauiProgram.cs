@@ -18,6 +18,7 @@ namespace Login_MAUI
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
                 });
 
+            builder.Services.AddSingleton<AppShellViewModel>();
             builder.Services.AddSingleton<ILoginRepository, LoginService>();
             builder.Services.AddSingleton<LoginPageViewModel>();
             builder.Services.AddSingleton<HttpClient>();

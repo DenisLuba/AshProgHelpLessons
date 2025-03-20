@@ -3,6 +3,8 @@ using CommunityToolkit.Mvvm.Input;
 using Login_MAUI.Models;
 using Login_MAUI.Pages;
 using Login_MAUI.Services;
+using Login_MAUI.UserControl;
+
 //using Newtonsoft.Json;
 using System.Text.Json;
 
@@ -38,6 +40,8 @@ public partial class LoginPageViewModel(ILoginRepository loginRepository) : Base
                 string userDetails = JsonSerializer.Serialize(userInfo); // стандарт для новых проектов - выше производительность и поддержка Microsoft
                 Preferences.Set(nameof(App.UserInfo), userDetails);
                 App.UserInfo = userInfo;
+
+                AppShell.Current.FlyoutHeader = new FlyoutHeaderControl();
 
                 await Shell.Current.GoToAsync($"//{nameof(HomePage)}");
             }

@@ -17,68 +17,74 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Login_MAUI
-build_property.ProjectDir = V:\source\ProgrammingProjects\MAUI\AshProgHelpLessons\Login_MAUI\Login_MAUI\
+build_property.ProjectDir = C:\Users\support.KRASNODAR-1120\Desktop\repos\Login_MAUI\Login_MAUI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[V:/source/ProgrammingProjects/MAUI/AshProgHelpLessons/Login_MAUI/Login_MAUI/App.xaml]
+[C:/Users/support.KRASNODAR-1120/Desktop/repos/Login_MAUI/Login_MAUI/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Login_MAUI.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[V:/source/ProgrammingProjects/MAUI/AshProgHelpLessons/Login_MAUI/Login_MAUI/AppShell.xaml]
+[C:/Users/support.KRASNODAR-1120/Desktop/repos/Login_MAUI/Login_MAUI/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Login_MAUI.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[V:/source/ProgrammingProjects/MAUI/AshProgHelpLessons/Login_MAUI/Login_MAUI/MainPage.xaml]
+[C:/Users/support.KRASNODAR-1120/Desktop/repos/Login_MAUI/Login_MAUI/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Login_MAUI.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[V:/source/ProgrammingProjects/MAUI/AshProgHelpLessons/Login_MAUI/Login_MAUI/Pages/AboutPage.xaml]
+[C:/Users/support.KRASNODAR-1120/Desktop/repos/Login_MAUI/Login_MAUI/Pages/AboutPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Login_MAUI.Pages.AboutPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\AboutPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\AboutPage.xaml
 
-[V:/source/ProgrammingProjects/MAUI/AshProgHelpLessons/Login_MAUI/Login_MAUI/Pages/ContactPage.xaml]
+[C:/Users/support.KRASNODAR-1120/Desktop/repos/Login_MAUI/Login_MAUI/Pages/ContactPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Login_MAUI.Pages.ContactPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\ContactPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\ContactPage.xaml
 
-[V:/source/ProgrammingProjects/MAUI/AshProgHelpLessons/Login_MAUI/Login_MAUI/Pages/HomePage.xaml]
+[C:/Users/support.KRASNODAR-1120/Desktop/repos/Login_MAUI/Login_MAUI/Pages/HomePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Login_MAUI.Pages.HomePage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\HomePage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\HomePage.xaml
 
-[V:/source/ProgrammingProjects/MAUI/AshProgHelpLessons/Login_MAUI/Login_MAUI/Pages/LoginPage.xaml]
+[C:/Users/support.KRASNODAR-1120/Desktop/repos/Login_MAUI/Login_MAUI/Pages/LoginPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Login_MAUI.Pages.LoginPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\LoginPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\LoginPage.xaml
 
-[V:/source/ProgrammingProjects/MAUI/AshProgHelpLessons/Login_MAUI/Login_MAUI/Resources/Styles/Colors.xaml]
+[C:/Users/support.KRASNODAR-1120/Desktop/repos/Login_MAUI/Login_MAUI/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Login_MAUI.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[V:/source/ProgrammingProjects/MAUI/AshProgHelpLessons/Login_MAUI/Login_MAUI/Resources/Styles/Styles.xaml]
+[C:/Users/support.KRASNODAR-1120/Desktop/repos/Login_MAUI/Login_MAUI/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Login_MAUI.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[V:/source/ProgrammingProjects/MAUI/AshProgHelpLessons/Login_MAUI/Login_MAUI/Resources/Values/Strings.xaml]
+[C:/Users/support.KRASNODAR-1120/Desktop/repos/Login_MAUI/Login_MAUI/Resources/Values/Strings.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Login_MAUI.Resources.Values.Strings.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Values\Strings.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Values\Strings.xaml
+
+[C:/Users/support.KRASNODAR-1120/Desktop/repos/Login_MAUI/Login_MAUI/UserControl/FlyoutHeaderControl.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Login_MAUI.UserControl.FlyoutHeaderControl.xaml
+build_metadata.AdditionalFiles.TargetPath = UserControl\FlyoutHeaderControl.xaml
+build_metadata.AdditionalFiles.RelativePath = UserControl\FlyoutHeaderControl.xaml
