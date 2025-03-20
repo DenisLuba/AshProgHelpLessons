@@ -1,0 +1,60 @@
+# Общие правила для .NET
+**/[Bb]in/
+**/[Oo]bj/
+**/.vs/
+**/.vscode/
+**/*.user
+**/*.suo
+**/*.cache
+**/packages/
+*.nupkg
+*.pdb
+*.dll
+*.exe
+*.cache
+*.log
+
+# MAUI-специфичные файлы
+**/Platforms/**/bin/
+**/Platforms/**/obj/
+**/Resources/Raw/**/*.zip
+
+# Android
+android-arm64/
+android-arm/
+android-x64/
+android-x86/
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# iOS/macOS
+*.ipa
+*.app
+*.dSYM
+*.plist
+**/BundleArtifacts/
+**/Assets.xcassets
+
+# IDE-специфичные файлы (Visual Studio, Rider и др.)
+**/.idea/
+**/*.DotSettings
+
+# Тестовые данные
+**/TestResults/
+**/*.coverage
+
+# Временные файлы и логи
+**/*~
+**/temp/
+**/logs/
+
+# Файлы окружения и секреты
+.env
+*.secret
+appsettings.Development.json
+
+# Исключения для файлов проекта (если нужно)
+#!**/*.csproj
+#!**/*.sln
