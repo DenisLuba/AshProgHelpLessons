@@ -29,6 +29,10 @@
             Title="About"
             Icon="{x:Static models:Icons.AboutUs}"
             ContentTemplate="{DataTemplate pages:AboutPage}" />
+        <ShellContent
+            Title="Products"
+            Icon="{x:Static models:Icons.Products}"
+            ContentTemplate="{DataTemplate pages:ProductPage}" />
     </FlyoutItem>
 
     <Shell.FlyoutFooter>

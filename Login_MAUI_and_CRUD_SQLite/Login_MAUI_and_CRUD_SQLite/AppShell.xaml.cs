@@ -1,4 +1,5 @@
-﻿using Login_MAUI.ViewModels;
+﻿using Login_MAUI.Pages;
+using Login_MAUI.ViewModels;
 
 namespace Login_MAUI;
 
@@ -8,5 +9,7 @@ public partial class AppShell : Shell
     {
         InitializeComponent();
         BindingContext = viewModel;
+
+        Routing.RegisterRoute(route: nameof(AddProductPage), type: typeof(AddProductPage));
     }
 }
